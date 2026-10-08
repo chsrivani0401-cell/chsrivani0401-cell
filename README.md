@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Srivani 👋
 
-<!--
-**chsrivani0401-cell/chsrivani0401-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | B.Tech CSE Graduate
 
-Here are some ideas to get you started:
+I'm building my career in data and business analytics by developing practical skills and working on hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning
+
+- 📊 Excel
+- 🗄️ SQL
+- 📈 Power BI
+- 🐍 Python
+- 🔍 Data Analysis & Data Cleaning
+
+### 🎯 Currently Focusing On
+
+- Building practical data analytics projects
+- Improving my SQL and Excel skills
+- Creating Power BI dashboards
+- Learning Python for data analysis
+- Developing a strong foundation in analytics
+
+### 📂 Projects
+
+I'm currently building my first data analytics projects.  
+Projects will be added here as I complete them.
+
+### 🌱 Career Goal
+
+I'm interested in opportunities such as **Data Analyst, BI Analyst, and Business Analyst** roles.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Srivani Chatla](https://www.linkedin.com/in/srivanichatla/)
